@@ -124,7 +124,7 @@ The scoring weights were trained on a Japanese corpus and are embedded directly 
 
 ### Python Port
 - **Author**: Masato Hagiwara
-- **URL**: http://lilyx.net/pages/tinysegmenterp.html
+- **URL**: https://masatohagiwara.net/tinysegmenter-in-python.html
 
 ### Elixir Port
 - **Author**: Simon Edwardsson
